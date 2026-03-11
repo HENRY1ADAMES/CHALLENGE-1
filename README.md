@@ -1,6 +1,8 @@
 # CHALLENGE-1
 Cumplimiento a lo exigido en el direccionamiento del CHALLENGE 1
+
 Conclusión y Recomendación
+
 Tras analizar todos los factores, la recomendación para el Sr. Juan es vender la Tienda 4.
 
 Justificación de la decisión:
